@@ -3,6 +3,7 @@ class GitStack < Formula
   homepage "https://github.com/danroc/git-stack"
   url "https://github.com/danroc/git-stack/releases/download/v0.1.0/git-stack-0.1.0.tar.gz"
   sha256 "b19400186e3070be7d458401b92d544c12a55d37267513ddccd4a5fbd88c34bf"
+  license "MIT"
   depends_on "go" => :build
 
   livecheck do
