@@ -1,8 +1,8 @@
 class GitStack < Formula
   desc "Manage stacks of interdependent Git branches"
   homepage "https://github.com/danroc/git-stack"
-  url "https://github.com/danroc/git-stack/releases/download/v0.1.1/git-stack-0.1.1.tar.gz"
-  sha256 "34333a0fecc1bf01faaaeaae9b33b8855213089621c2dab1b62de2b3a18f8f27"
+  url "https://github.com/danroc/git-stack/releases/download/v0.2.0/git-stack-0.2.0.tar.gz"
+  sha256 "19c2f3f497f836d052685cf3034a1656a28f253755549d6d70245aafc25ee227"
   license "MIT"
   depends_on "go" => :build
 
